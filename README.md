@@ -4,8 +4,10 @@ Name: Imran Mukthar
 CSE-302: Course Project
 
 Dataset title: Overwatch hero statistics
-Source: Keggle.
 
+Source: Keggle (https://www.kaggle.com/datasets/jamesryanralph/overwatch-hero-stats?resource=download)
+
+------------------------
 The variables I chose are: Hero, Win_rate, Rank
 
 This is the same dataset I used in part 1. I chose this specific dataset because it’s relevant to my
